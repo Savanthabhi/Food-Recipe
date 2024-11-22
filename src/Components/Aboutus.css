@@ -1,0 +1,19 @@
+.about-container {
+    padding: 20px;
+    background-color: hwb(0 63% 22%);
+    color: #010000;
+    font-family: 'Arial', sans-serif;
+    line-height: 2.0;
+    font-size: 20px;
+  }
+  
+  .about-container h1 {
+    color: #1c0705;
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    margin-bottom: 15px;
+  }
+  
